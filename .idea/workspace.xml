@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f11a912-b67b-4a5d-bf1e-ef701c751f0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/set_git.sh" beforeDir="false" afterPath="$PROJECT_DIR$/set_git.sh" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CarND_Capstone$voc_to_coco.coverage" NAME="voc_to_coco Coverage Results" MODIFIED="1592012117549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modeling/data_generator" />
+    <SUITE FILE_PATH="coverage/CarND_Capstone$parser.coverage" NAME="parser Coverage Results" MODIFIED="1592013202046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modeling/data_generator" />
+    <SUITE FILE_PATH="coverage/CarND_Capstone$inspect_tfrecords.coverage" NAME="inspect_tfrecords Coverage Results" MODIFIED="1592872705049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modeling/data_generator" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modeling/classify.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2070">
+              <caret line="94" column="40" selection-start-line="94" selection-start-column="40" selection-end-line="94" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4416">
+              <caret line="192" column="81" selection-start-line="192" selection-start-column="81" selection-end-line="192" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ros/src/tl_detector/tl_detector.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="256" lean-forward="true" selection-start-line="256" selection-end-line="256" />
+              <folding>
+                <element signature="e#22#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/set_git.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ros/src/styx/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ros/src/tl_detector/light_classification/tl_classifier.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modeling/data_generator/parser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>annot_dict_per_image</find>
+      <find>assert len(list_of_object_bounds) == len(category_ids)</find>
+      <find>class_id</find>
+      <find>boxes</find>
+      <find>CvBridge</find>
+      <find>TLClassifier</find>
+      <find>self.bridge</find>
+      <find>self.light_classifier</find>
+      <find>get_light_state</find>
+      <find>ss</find>
+      <find>self.waypoint_tree</find>
+      <find>traffic_light_color</find>
+      <find>while</find>
+      <find>waypoints_cb</find>
+      <find>parser</find>
+      <find>vstatestate</find>
+      <find>image4</find>
+      <find>$PROJECT_DIR$/..</find>
+      <find>path_</find>
+      <find>encoded_jpg</find>
+      <find>checkout</find>
+      <find>10000</find>
+      <find>classes</find>
+      <find>closest_light</find>
+      <find>traffic_cb</find>
+      <find>self.lights</find>
+      <find>stop_line_positions</find>
+      <find>i</find>
+      <find>light</find>
+      <find>print</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>path_to</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ros/src/styx/package.xml" />
+        <option value="$PROJECT_DIR$/ros/src/camera_info_publisher/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/ros/src/styx/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/ros/src/waypoint_updater/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/ros/src/styx_msgs/package.xml" />
+        <option value="$PROJECT_DIR$/ros/src/waypoint_updater/package.xml" />
+        <option value="$PROJECT_DIR$/ros/src/styx_msgs/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/ros/src/twist_controller/dbw_test.py" />
+        <option value="$PROJECT_DIR$/ros/src/twist_controller/yaw_controller.py" />
+        <option value="$PROJECT_DIR$/ros/src/tl_detector/NOTES.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/ros/src/waypoint_updater/waypoint_updater.py" />
+        <option value="$PROJECT_DIR$/ros/src/twist_controller/dbw_node.py" />
+        <option value="$PROJECT_DIR$/ros/src/twist_controller/twist_controller.py" />
+        <option value="$PROJECT_DIR$/modeling/model/retinanet.py" />
+        <option value="$PROJECT_DIR$/modeling/model/retinanet/submodels.py" />
+        <option value="$PROJECT_DIR$/modeling/requirements.txt" />
+        <option value="$PROJECT_DIR$/modeling/model/retinanet/backbone.py" />
+        <option value="$PROJECT_DIR$/modeling/model/retinanet/utils.py" />
+        <option value="$PROJECT_DIR$/modeling/model/retinanet/fpn.py" />
+        <option value="$PROJECT_DIR$/modeling/model/retinanet/anchors.py" />
+        <option value="$PROJECT_DIR$/modeling/model/backbone.py" />
+        <option value="$PROJECT_DIR$/modeling/model/retinanet/heads.py" />
+        <option value="$PROJECT_DIR$/modeling/model/retinanet/loss.py" />
+        <option value="$PROJECT_DIR$/modeling/model/retinanet/build.py" />
+        <option value="$PROJECT_DIR$/modeling/data_generator/augment.py" />
+        <option value="$PROJECT_DIR$/modeling/data_generator/anchors.py" />
+        <option value="$PROJECT_DIR$/modeling/data_generator/utils.py" />
+        <option value="$PROJECT_DIR$/modeling/data_generator/generator.py" />
+        <option value="$PROJECT_DIR$/modeling/setup.py" />
+        <option value="$PROJECT_DIR$/modeling/data_generator/data/pycococreator.py" />
+        <option value="$PROJECT_DIR$/modeling/data_generator/pycococreator.py" />
+        <option value="$PROJECT_DIR$/modeling/data_generator/pycococreatortools.py" />
+        <option value="$PROJECT_DIR$/modeling/data_generator/coco_to_tfrecords.py" />
+        <option value="$PROJECT_DIR$/modeling/data_generator/voc_to_coco.py" />
+        <option value="$PROJECT_DIR$/modeling/data_generator/yaml_to_coco.py" />
+        <option value="$PROJECT_DIR$/modeling/data_generator/inspect_tfrecords.py" />
+        <option value="$PROJECT_DIR$/modeling/data_generator/parser.py" />
+        <option value="$PROJECT_DIR$/modeling/classify.py" />
+        <option value="$PROJECT_DIR$/ros/src/tl_detector/light_classification/tl_classifier.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/ros/src/tl_detector/tl_detector.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CarND-Capstone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarND-Capstone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarND-Capstone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarND-Capstone" type="462c0819:PsiDirectoryNode" />
+              <item name="ros" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ros" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ros" />
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/imgs" />
+      <recent name="$PROJECT_DIR$/modeling" />
+      <recent name="$PROJECT_DIR$/ros/src/tl_detector/light_classification" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.inspect_tfrecords">
+    <configuration name="inspect_tfrecords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CarND-Capstone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modeling/data_generator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modeling/data_generator/inspect_tfrecords.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CarND-Capstone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modeling/data_generator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modeling/data_generator/parser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="voc_to_coco" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CarND-Capstone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modeling/data_generator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modeling/data_generator/voc_to_coco.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.inspect_tfrecords" />
+        <item itemvalue="Python.parser" />
+        <item itemvalue="Python.voc_to_coco" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f11a912-b67b-4a5d-bf1e-ef701c751f0b" name="Default Changelist" comment="" />
+      <created>1591460780181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591460780181</updated>
+      <workItem from="1591460781916" duration="4753000" />
+      <workItem from="1591468506352" duration="19664000" />
+      <workItem from="1591584781823" duration="1155000" />
+      <workItem from="1591586928991" duration="8245000" />
+      <workItem from="1591728406330" duration="18000" />
+      <workItem from="1591751940562" duration="304000" />
+      <workItem from="1591752719545" duration="5347000" />
+      <workItem from="1591829293355" duration="8407000" />
+      <workItem from="1591850362914" duration="1102000" />
+      <workItem from="1591917678044" duration="1920000" />
+      <workItem from="1591929609607" duration="3608000" />
+      <workItem from="1591933610235" duration="1622000" />
+      <workItem from="1591981381103" duration="41000" />
+      <workItem from="1592009899558" duration="32053000" />
+      <workItem from="1592159294193" duration="3000" />
+      <workItem from="1592172444970" duration="1268000" />
+      <workItem from="1592178317047" duration="7473000" />
+      <workItem from="1592271388791" duration="6799000" />
+      <workItem from="1592280974862" duration="12176000" />
+      <workItem from="1592323605751" duration="608000" />
+      <workItem from="1592346542226" duration="3034000" />
+      <workItem from="1592355596902" duration="2561000" />
+      <workItem from="1592360866340" duration="6403000" />
+      <workItem from="1592589016057" duration="2793000" />
+      <workItem from="1592607952084" duration="9000" />
+      <workItem from="1592611245991" duration="4839000" />
+      <workItem from="1592770376645" duration="10660000" />
+      <workItem from="1592792029112" duration="1748000" />
+      <workItem from="1592800965082" duration="2033000" />
+      <workItem from="1592870316023" duration="1291000" />
+      <workItem from="1592871812225" duration="1756000" />
+      <workItem from="1592873905665" duration="674000" />
+      <workItem from="1592874882401" duration="4000" />
+      <workItem from="1592879809884" duration="2345000" />
+      <workItem from="1592883195128" duration="173000" />
+      <workItem from="1592884045588" duration="1216000" />
+      <workItem from="1592885915506" duration="1799000" />
+      <workItem from="1592924021300" duration="481000" />
+      <workItem from="1592930232474" duration="503000" />
+      <workItem from="1592949610633" duration="5821000" />
+      <workItem from="1593038332239" duration="501000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add TL-detector code (Not tested)">
+      <created>1591568966777</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591568966777</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add TL-detector code (Not tested)">
+      <created>1591569257359</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591569257359</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Pull from master:&#10;Update: waypoint_updater&#10;Update: DBW&#10;Update: TL-detector">
+      <created>1591572834553</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591572834553</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Finish traffic light detection with simulator (THis is a hack now). THe car now stops when it sees a red light.">
+      <created>1591761451547</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591761451547</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add parser code">
+      <created>1591933780261</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591933780261</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Rmv redundant prints">
+      <created>1591934323025</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591934323025</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update parser code to use the annotated data">
+      <created>1592016386396</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592016386396</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update parser code to use the annotated data">
+      <created>1592363375000</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592363375000</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update TL-detector and add classification. Tested">
+      <created>1592368010390</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592368010390</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add model weights">
+      <created>1592368046913</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1592368046913</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Latest changes Tensorlfow=1.3.0 test complete">
+      <created>1592675812407</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592675812407</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Push the model">
+      <created>1592676226123</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1592676226123</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add initial network architecture">
+      <created>1592772293184</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1592772293184</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add ReadMe">
+      <created>1592776456432</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1592776456432</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Format Readme">
+      <created>1592776633718</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1592776633718</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Refornat readme">
+      <created>1592776741759</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1592776741759</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Refornat readme">
+      <created>1592776802413</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1592776802413</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Refornat readme">
+      <created>1592776842927</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1592776842927</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add node info">
+      <created>1592777395038</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1592777395038</updated>
+    </task>
+    <task id="LOCAL-00020" summary="loss info">
+      <created>1592778224339</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1592778224339</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Add train info">
+      <created>1592778644771</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1592778644771</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Add 3 min video">
+      <created>1592780438138</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1592780438138</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Rmv video from branch">
+      <created>1592789916696</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1592789916696</updated>
+    </task>
+    <task id="LOCAL-00024" summary="remove paths">
+      <created>1592790299426</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1592790299426</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Commit New model trained with real-world data">
+      <created>1592888137076</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1592888137076</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Final Commit">
+      <created>1592889016568</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1592889016569</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Add more VIZ to Readme">
+      <created>1592962697418</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1592962697418</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Fix Bug in tl_detector">
+      <created>1592969764399</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1592969764400</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="167210000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49952784" visible="true" weight="0.19599427" />
+      <window_info id="Structure" order="1" sideWeight="0.5004721" side_tool="true" weight="0.13860206" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="SOQL Query" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Log Analyzer" order="2" show_stripe_button="false" weight="0.3295562" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.35039818" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="right" id="make" order="0" weight="0.32962668" />
+      <window_info anchor="right" id="Python Console" order="1" sideWeight="0.49814814" weight="0.58941346" />
+      <window_info active="true" anchor="right" id="Terminal" order="2" sideWeight="0.4811111" visible="true" weight="0.44062948" />
+      <window_info anchor="right" id="File Transfer" order="3" sideWeight="0.49" weight="0.44635195" />
+      <window_info anchor="right" id="Remote Host" order="4" weight="0.32962668" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.32962668" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32962668" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Version Control" order="10" weight="0.32904148" />
+      <window_info anchor="right" id="Docker" order="11" weight="0.32904148" />
+      <window_info anchor="right" id="TODO" order="12" />
+      <window_info anchor="right" id="Run" order="13" sideWeight="0.49888888" weight="0.6781116" />
+      <window_info anchor="right" id="Event Log" order="14" sideWeight="0.5188889" side_tool="true" weight="0.35622317" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pull from master:&#10;Update: waypoint_updater&#10;Update: DBW&#10;Update: TL-detector" />
+    <MESSAGE value="Finish traffic light detection with simulator (THis is a hack now). THe car now stops when it sees a red light." />
+    <MESSAGE value="Add parser code" />
+    <MESSAGE value="Rmv redundant prints" />
+    <MESSAGE value="Add Retinanet" />
+    <MESSAGE value="Add Data Generator/conversion code" />
+    <MESSAGE value="Update parser code to use the annotated data" />
+    <MESSAGE value="Update TL-detector and add classification. Tested" />
+    <MESSAGE value="Add model weights" />
+    <MESSAGE value="Latest changes Tensorlfow=1.3.0 test complete" />
+    <MESSAGE value="Push the model" />
+    <MESSAGE value="Add initial network architecture" />
+    <MESSAGE value="Add ReadMe" />
+    <MESSAGE value="Format Readme" />
+    <MESSAGE value="Refornat readme" />
+    <MESSAGE value="Add node info" />
+    <MESSAGE value="loss info" />
+    <MESSAGE value="Add train info" />
+    <MESSAGE value="Add 3 min video" />
+    <MESSAGE value="Rmv video from branch" />
+    <MESSAGE value="remove paths" />
+    <MESSAGE value="Commit New model trained with real-world data" />
+    <MESSAGE value="Final Commit" />
+    <MESSAGE value="Add more VIZ to Readme" />
+    <MESSAGE value="Fix Bug in tl_detector" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix Bug in tl_detector" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/left0538.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/left0539.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/left0937.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/left0466.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/left0465.jpg" />
+    <entry file="file://$PROJECT_DIR$/ros/frozen_inference_graph.pb" />
+    <entry file="file://$PROJECT_DIR$/img/inception_block.png" />
+    <entry file="file://$PROJECT_DIR$/img/inception-v2.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/greenleft0300.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/greenleft0314.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/greenleft0328.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0000.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/modeling/data_generator/pycococreatortools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modeling/data_generator/voc_to_coco.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2645">
+          <caret line="119" column="64" selection-start-line="119" selection-start-column="64" selection-end-line="119" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modeling/data_generator/yaml_to_coco.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0083.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0002.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0707.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0613.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0571.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0477.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0360.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0013.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0019.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0020.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0018.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0015.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0003.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0265.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0047.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0017.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0042.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0048.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0054.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0411.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/validate_annotation/b'left0014.jpg'.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/green/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/data/green/left0300.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/green/left0314.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/green/left0328.jpg" />
+    <entry file="file://$PROJECT_DIR$/ros/model_weights.pb" />
+    <entry file="file://$PROJECT_DIR$/modeling/data_generator/inspect_tfrecords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1656">
+          <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modeling/data_generator/coco_to_tfrecords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" selection-start-line="23" selection-end-line="117" selection-end-column="21" />
+          <folding>
+            <element signature="e#375#406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modeling/classify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="94" column="40" selection-start-line="94" selection-start-column="40" selection-end-line="94" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4416">
+          <caret line="192" column="81" selection-start-line="192" selection-start-column="81" selection-end-line="192" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ros/src/styx/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ros/src/tl_detector/light_classification/tl_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modeling/data_generator/parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ros/src/tl_detector/tl_detector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="256" lean-forward="true" selection-start-line="256" selection-end-line="256" />
+          <folding>
+            <element signature="e#22#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set_git.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
